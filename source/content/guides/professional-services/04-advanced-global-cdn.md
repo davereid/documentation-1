@@ -62,7 +62,7 @@ Change or filter request and response headers before your application starts up 
 
 ### Persistent Cache
 
-Serve your Drupal or WordPress site, even when it's down. If the server is not responding and can't serve a new copy of a page, it will use a cached version instread of displaying an error. With Persistent Cache, the goal is to provide a seamless, uninterrupted experience for the user.
+Serve your Drupal or WordPress site, even when it's down. If the server is not responding and can't serve a new copy of a page, it will use a cached version instead of displaying an error. With Persistent Cache, the goal is to provide a seamless, uninterrupted experience for the user.
 
 ### Edge Redirects
 
